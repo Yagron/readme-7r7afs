@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Yagron.github.io/readme-7r7afs/sitemap.xml
